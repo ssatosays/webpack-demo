@@ -1,0 +1,1 @@
+(()=>{"use strict";document.getElementById("sub").textContent="subdayo",document.getElementById("add").textContent=10+20})();
